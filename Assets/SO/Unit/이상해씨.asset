@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c6e27ffafa93354cb6452221aeb347d, type: 3}
+  m_Name: "\uC774\uC0C1\uD574\uC528"
+  m_EditorClassIdentifier: 
+  unitName: "\uC774\uC0C1\uD574\uC528"
+  maxHP: 100
+  currentHP: 100
+  type1: 3
+  type2: 5
+  skills:
+  - {fileID: 11400000, guid: 5beb79fb3c2503e47aae56b96eb8cf95, type: 2}
+  - {fileID: 11400000, guid: 9a5175d75a9fa3646b097539883b0115, type: 2}
+  - {fileID: 11400000, guid: 5f17ee20c7999a4449827325d70c4b01, type: 2}
+  - {fileID: 11400000, guid: f93359b093cdd2844993e22dbea71d89, type: 2}

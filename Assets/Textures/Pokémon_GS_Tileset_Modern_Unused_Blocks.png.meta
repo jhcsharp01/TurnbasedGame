@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: f96a88a4f4ceb97479b6dc4dcfdf8d20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5659556829337452389
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_0"
+  - first:
+      213: -7065715883303783240
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_1"
+  - first:
+      213: 1721021052064953662
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_2"
+  - first:
+      213: 8246526041421206162
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_3"
+  - first:
+      213: 5191108135589499286
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_4"
+  - first:
+      213: 2730624781930566715
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_5"
+  - first:
+      213: 1110434120157373857
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_6"
+  - first:
+      213: 892064771987512388
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_7"
+  - first:
+      213: 3354447429176370883
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_8"
+  - first:
+      213: 3715355988337365051
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_9"
+  - first:
+      213: -4974500921288311420
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_10"
+  - first:
+      213: -8997667188163745484
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_11"
+  - first:
+      213: -4227399300652894019
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_12"
+  - first:
+      213: 9091303418254236093
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_13"
+  - first:
+      213: -7204344008712853417
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_14"
+  - first:
+      213: 7380122389255137259
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_15"
+  - first:
+      213: -6469749674450390186
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_16"
+  - first:
+      213: -2400313808977286847
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_17"
+  - first:
+      213: 3372741334812690334
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_18"
+  - first:
+      213: 2567712088591371996
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_19"
+  - first:
+      213: 4742219091209454786
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_20"
+  - first:
+      213: 1431361019097859307
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_21"
+  - first:
+      213: -3252009474908698716
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_22"
+  - first:
+      213: 2517273597259763593
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_23"
+  - first:
+      213: 92822731911293499
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_24"
+  - first:
+      213: 964558528282682815
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_25"
+  - first:
+      213: -8830504635482754596
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_26"
+  - first:
+      213: -2364279690374639228
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_27"
+  - first:
+      213: -1639026737427824069
+    second: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_28"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f7bce53f8ca8e40800000000000000
+      internalID: 5659556829337452389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4b7d307d881fd90800000000000000
+      internalID: -7065715883303783240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_2"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 164
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35fc4b478b42e710800000000000000
+      internalID: 1721021052064953662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_3"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 131
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2925be12ebb817270800000000000000
+      internalID: 8246526041421206162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_4"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 164
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d37c78558a0840800000000000000
+      internalID: 5191108135589499286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_5"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 131
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3499dd85c025e520800000000000000
+      internalID: 2730624781930566715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_6"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5247ee2fd096f00800000000000000
+      internalID: 1110434120157373857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_7"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 131
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c94fa0f20416c00800000000000000
+      internalID: 892064771987512388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_8"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 164
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6a7c90a246d8e20800000000000000
+      internalID: 3354447429176370883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_9"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3018fa26989f8330800000000000000
+      internalID: 3715355988337365051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48db1c3a4c507fab0800000000000000
+      internalID: -4974500921288311420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_11"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439ef423d5dd12380800000000000000
+      internalID: -8997667188163745484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_12"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db879d8dbb24555c0800000000000000
+      internalID: -4227399300652894019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_13"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db996568a4cca2e70800000000000000
+      internalID: 9091303418254236093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_14"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758e4f85b47050c90800000000000000
+      internalID: -7204344008712853417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_15"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a57226367b6660800000000000000
+      internalID: 7380122389255137259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_16"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6537fa403f4d636a0800000000000000
+      internalID: -6469749674450390186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_17"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 65
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149a172ee4f50bed0800000000000000
+      internalID: -2400313808977286847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_18"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 98
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9789ccdf526ece20800000000000000
+      internalID: 3372741334812690334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_19"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 65
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde07fd4a8852a320800000000000000
+      internalID: 2567712088591371996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c48d9a532fbfc140800000000000000
+      internalID: 4742219091209454786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44ba063473dd310800000000000000
+      internalID: 1431361019097859307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_22"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ccd9cc9a8ed2d0800000000000000
+      internalID: -3252009474908698716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_23"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f4327eff62fe220800000000000000
+      internalID: 2517273597259763593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_24"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a67aa68c5c94100800000000000000
+      internalID: 92822731911293499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_25"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ec5bfedcc26d00800000000000000
+      internalID: 964558528282682815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_26"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd13c9ee1deb37580800000000000000
+      internalID: -8830504635482754596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_27"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4819c89e524603fd0800000000000000
+      internalID: -2364279690374639228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_28"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b324f32cdd10149e0800000000000000
+      internalID: -1639026737427824069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_0": 5659556829337452389
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_1": -7065715883303783240
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_10": -4974500921288311420
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_11": -8997667188163745484
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_12": -4227399300652894019
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_13": 9091303418254236093
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_14": -7204344008712853417
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_15": 7380122389255137259
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_16": -6469749674450390186
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_17": -2400313808977286847
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_18": 3372741334812690334
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_19": 2567712088591371996
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_2": 1721021052064953662
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_20": 4742219091209454786
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_21": 1431361019097859307
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_22": -3252009474908698716
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_23": 2517273597259763593
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_24": 92822731911293499
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_25": 964558528282682815
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_26": -8830504635482754596
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_27": -2364279690374639228
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_28": -1639026737427824069
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_3": 8246526041421206162
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_4": 5191108135589499286
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_5": 2730624781930566715
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_6": 1110434120157373857
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_7": 892064771987512388
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_8": 3354447429176370883
+      "Pok\xE9mon_GS_Tileset_Modern_Unused_Blocks_9": 3715355988337365051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
