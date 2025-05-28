@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -34,12 +35,16 @@ public class BattleSystem : MonoBehaviour
     public Unit otherUnit;
 
 
+
     public Button[] buttons; //메뉴 버튼
     public Button[] skill_buttons; //스킬에 대한 버튼
 
     public GameObject mainmenuPanel; //메뉴 온 오프
     public GameObject skillmenuPanel;
-
+    
+    //플레이어의 슬라이더 바 연결
+    public UnitHPBar player_bar;
+    public UnitHPBar other_bar;
 
     //현재 메뉴들에 대한 인덱스 값
     private int mainMenuIdx = 0;
@@ -50,8 +55,12 @@ public class BattleSystem : MonoBehaviour
     {
         state = BattleTurn.Start;
 
-        //메인 메뉴에 대한 오픈
-        OpenMainMenu();
+        //슬라이더 바 설정
+        player_bar.SetSliderBar(playerUnit);
+        other_bar.SetSliderBar(otherUnit);
+
+
+        StartCoroutine(PlayerTurn());
     }
 
     private void Update()
@@ -66,6 +75,53 @@ public class BattleSystem : MonoBehaviour
                 break;
         }
     }
+
+    //스킬로 공격
+    public IEnumerator PlayerAttack(Skill skill)
+    {
+        otherUnit.currentHP -= skill.damage;
+        other_bar.UpdateHP(otherUnit.currentHP);
+
+        yield return StartCoroutine(EnemyTurn());
+    }
+
+    public IEnumerator EnemyAttack(Skill skill)
+    {
+        playerUnit.currentHP -= skill.damage;
+        player_bar.UpdateHP(playerUnit.currentHP);
+
+        yield return StartCoroutine(PlayerTurn());
+    }
+
+
+    public IEnumerator PlayerTurn()
+    {
+        yield return StartCoroutine(Phase("Player's turn !!"));
+        //메인 메뉴에 대한 오픈
+        OpenMainMenu();
+    }
+
+    public IEnumerator EnemyTurn()
+    {
+        yield return StartCoroutine(Phase("Enemy's turn !!"));
+
+        //적이 진행할 행동 구현 (적이 가진 1번째 스킬을 사용한다.)
+        Debug.Log(otherUnit.unitName + "의" + otherUnit.skills[0].skillName + "!!");
+
+        yield return StartCoroutine(EnemyAttack(otherUnit.skills[0]));
+    }
+
+    //상황에 맞게 페이즈 텍스트에 대한 일시적인 표현을 위한 코드
+    public IEnumerator Phase(string message , float duration = 1.5f)
+    {
+        PhaseText.text = message;
+        PhaseText.gameObject.SetActive(true);
+
+        yield return new WaitForSeconds(duration);
+
+        PhaseText.gameObject.SetActive(false);
+    }
+
 
     private void OpenMainMenu()
     {
@@ -167,6 +223,9 @@ public class BattleSystem : MonoBehaviour
             Skill player_selected = playerUnit.skills[skillMenuIdx];
             //플레이어의 공격
             Debug.Log(playerUnit.name + "의" + playerUnit.skills[skillMenuIdx].skillName + "!!");
+
+            //공격이 끝난 다음 턴을 넘긴다.
+            StartCoroutine(PlayerAttack(playerUnit.skills[skillMenuIdx]));
         }
 
         //ESC 키 입력
